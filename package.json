@@ -20,7 +20,8 @@
   "homepage": "https://github.com/ivarrian/switcher#readme",
   "dependencies": {
     "inquirer": "^0.10.1",
-    "linebyline": "^1.1.0"
+    "linebyline": "^1.1.0",
+    "shelljs": "^0.7.8"
   },
   "bin": {
     "switch": "./bin/switch"
